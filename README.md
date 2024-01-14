@@ -20,6 +20,7 @@ https://github.com/hilalkrglmz/CarPage-TS/assets/140657703/1b03eafa-2cf7-49fa-81
                 <li>React-router-dom</li>
                 <li>React-select</li>
                 <li>TailwindCSS</li>
+                <li>FramerMotion</li>
                 <li>RapidAPI</li>
                 </ul>
             <h2>SETUP and USE</h2>
